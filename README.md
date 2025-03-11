@@ -1,16 +1,18 @@
-## Hi there 👋
+# 👋 Hey, I'm RayanYI!  
 
-<!--
-**RayanYI/RayanYI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Math & CS student who loves solving problems and building cool stuff.  
+💻 I mess around with C, C++, Python, and Java.  
+🚀 Big fan of algorithms, AI, and game dev!  
 
-Here are some ideas to get you started:
+## 🔥 What I Do  
+- Code in **C, C++, Python, Java**  
+- Solve problems on [LeetCode](https://leetcode.com/u/RayanYI/)  
+- Make 2D games in Java  
+- Break things (then fix them... sometimes)  
+- Use **Git & GitHub** to keep my chaos organized  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎮 Current Project  
+**EscapeTheAppariteur** – A 2D game where you're a student sneaking past university staff.  
+
+## 📫 Hit Me Up!  
+Got a cool idea? Wanna talk about code, math, or random nerdy stuff? I'm down!  
