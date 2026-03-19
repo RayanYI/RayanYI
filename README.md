@@ -44,6 +44,6 @@ I bridge the gap between complex mathematical theory and high-performance softwa
 ---
 
 ## 📫 Let's Connect!
-- **LinkedIn:** [[Your LinkedIn Profile Link](https://www.linkedin.com/in/rayan-yousfi-20a12824b/)]
+- **LinkedIn:** [[Rayan Yousfi](https://www.linkedin.com/in/rayan-yousfi-20a12824b/)]
 - **Website:** [www.gositepro.fr](https://www.gositepro.fr)
 - **Email:** rayanyyousfi@gmail.com
