@@ -1,18 +1,49 @@
-# 👋 Hey, I'm RayanYI!  
+# 👋 Hey, I'm Rayan YOUSFI!
 
-🎓 Math & CS student who loves solving problems and building cool stuff.  
-💻 I mess around with C, C++, Python, and Java.  
-🚀 Big fan of algorithms, AI, and game dev!  
+🎓 **Double Degree Student in Mathematics & Computer Science** @ Aix-Marseille University (Top 10% of promotion).  
+🚀 **Software & AI Freelancer** | Founder of [GoSitePro](https://www.gositepro.fr) | AI Trainer @ Alignerr.
 
-## 🔥 What I Do  
-- Code in **C, C++, Python, Java**  
-- Solve problems on [LeetCode](https://leetcode.com/u/RayanYI/)  
-- Make 2D games in Java  
-- Break things (then fix them... sometimes)  
-- Use **Git & GitHub** to keep my chaos organized  
+I bridge the gap between complex mathematical theory and high-performance software engineering, with a focus on **AI** and **Embedded Systems**.
 
-## 🎮 Current Project  
-**EscapeTheAppariteur** – A 2D game where you're a student sneaking past university staff.  
+---
 
-## 📫 Hit Me Up!  
-Got a cool idea? Wanna talk about code, math, or random nerdy stuff? I'm down!  
+## 🛠️ Tech Stack
+
+- **Languages:** C, C++, Python, Java, JavaScript, SQL.
+- **Web Development (GoSitePro):** Next.js, MongoDB, Tailwind CSS, Stripe, Clerk.
+- **AI & Data:** RLHF (Reinforcement Learning from Human Feedback), Data Evaluation, Algorithmic Debugging.
+- **Embedded & Tools:** ARM Architecture (Raspberry Pi), Git, Vercel, Qt.
+
+---
+
+## 🚀 Professional Experience
+
+### 🧠 AI Trainer & Evaluator | Alignerr (Labelbox)
+- Training generative AI models through **RLHF** and complex code debugging (Python/C++).
+- Creating "Golden Data" sets to optimize model reasoning and mathematical logic.
+
+### 🌐 Founder & Full-Stack Developer | GoSitePro
+- Building high-scale web applications: Marketplaces, E-commerce, and Educational platforms.
+- Implementing secure payment flows (Stripe) and modern auth systems (Clerk).
+
+---
+
+## 🎮 Featured Project
+### **EscapeTheApparitor** (Completed)
+*A 2D game engine built from scratch in **Java**.*
+- Custom physics and collision detection algorithms.
+- Memory-efficient rendering and game loop optimization.
+
+---
+
+## 📈 Soft Skills & Interests
+- **Analytical Mindset:** Competitive Chess player (AixMarseilleChess).
+- **Discipline:** Boxing practitioner.
+- **Global Mindset:** Erasmus+ experience in Romania (100% English environment).
+
+---
+
+## 📫 Let's Connect!
+- **LinkedIn:** [[Your LinkedIn Profile Link](https://www.linkedin.com/in/rayan-yousfi-20a12824b/)]
+- **Website:** [www.gositepro.fr](https://www.gositepro.fr)
+- **Email:** rayanyyousfi@gmail.com
