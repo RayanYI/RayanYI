@@ -1,6 +1,6 @@
 # 👋 Hey, I'm Rayan YOUSFI!
 
-🎓 **Double Degree Student in Mathematics & Computer Science** @ Aix-Marseille University (Top 10% of promotion).  
+🎓 **Double Degree Student in Mathematics & Computer Science** @ Aix-Marseille University.  
 🚀 **Software & AI Freelancer** | Founder of [GoSitePro](https://www.gositepro.fr) | AI Trainer @ Alignerr.
 
 I bridge the gap between complex mathematical theory and high-performance software engineering, with a focus on **AI** and **Embedded Systems**.
